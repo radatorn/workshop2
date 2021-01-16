@@ -2,7 +2,7 @@
 string = "I am the best programmer"
 print(len(string))
 # จงเขียนคำสั่งเพื่อแสดงอักษรแรกของข้อความ "I am the best programmer"
-print(string[0])
+print(string.replace(" ", "")
 # จงเขียนคำสั่งเพื่อแสดง "best" ของข้อความ "I am the best programmer"
 print(string[9:13])
 # จงเขียนคำสั่งเพื่อแสดข้อความ "I am the best programmer" ที่ไม่มี space
