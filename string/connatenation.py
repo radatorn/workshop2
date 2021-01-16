@@ -1,7 +1,7 @@
 # case1
 a = "Hello"
-b = "Word"
-c = a + " " + b
+b = "World"
+c = a + b
 print(c)  # Output: HelloWorld
 
 # case 2
